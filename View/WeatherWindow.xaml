@@ -10,7 +10,6 @@
     Title="WeatherWindow"
     Width="400"
     Height="600"
-    d:DataContext="{d:DesignInstance Type=vm:WeatherVM}"
     mc:Ignorable="d">
     <Window.Resources>
         <!--
