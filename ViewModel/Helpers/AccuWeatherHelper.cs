@@ -11,7 +11,7 @@ namespace WeatherCloneApp.ViewModel.Helpers
 {
     public class AccuWeatherHelper
     {
-        public const string API_KEY = "q5yCxaF5wtvnuaUftwHYgbYlEVusiogH";
+        public const string API_KEY = "VxaNNXz6qy2L9NnsxCzC1iFPx8QKYLTG";
 
         //create const Base_URL to get base location that can be used anywhere in our app
         public const string BASE_URL = "http://dataservice.accuweather.com/";
